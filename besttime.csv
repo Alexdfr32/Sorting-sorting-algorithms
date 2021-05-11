@@ -1,0 +1,14 @@
+,0,1,2,3,4,5
+A,heapsort,mergesort,mergesort,bucketsort2,radixsort,countingsort
+B,radixsort,mergesort,mergesort,radixsort,radixsort,insertionsort
+C,insertionsort,mergesort,mergesort,heapsort,radixsort,insertionsort
+D,insertionsort,mergesort,mergesort,heapsort,radixsort,insertionsort
+E,countingsort,quicksortmid,quicksortright,heapsort,radixsort,countingsort
+F,selectionsort,quicksort,mergesort,heapsort,heapsort,heapsort
+G,selectionsort,quicksortmid,mergesort,heapsort,heapsort,heapsort
+U,quicksort,mergesort,mergesort,heapsort,radixsort,radixsort
+V,radixsort,mergesort,mergesort,radixsort,radixsort,radixsort
+W,insertionsort,mergesort,quicksort,radixsort,radixsort,radixsort
+X,radixsort,quicksort,mergesort,heapsort,radixsort,radixsort
+Y,insertionsort,quicksort,mergesort,radixsort,radixsort,radixsort
+Z,quicksort,mergesort,quicksort,heapsort,heapsort,heapsort
